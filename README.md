@@ -4,7 +4,7 @@ A simple, responsive contact list application built with React, Vite, and Tailwi
 
 ## Live Applicatiion
 
-- The deployed link:
+- The deployed link: https://tria-assignment-woad.vercel.app/
 
 ## Features
 - View Contacts:It displays all contacts .I used the json file created in public folder to fetch the all contacts . I used the AI to create random contacts.
